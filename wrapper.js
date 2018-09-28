@@ -27,4 +27,3 @@ var logVolume = wrapLog(volume, "volume");
 
 logVolume(5, 3, 2); // volume(5, 3, 2) => 30
 logVolume(3, 2, 4); // volume(3, 2, 4) => 24
-
